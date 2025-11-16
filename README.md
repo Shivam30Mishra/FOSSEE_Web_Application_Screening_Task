@@ -1,4 +1,5 @@
 This `README.md` file serves as developer documentation, specifically detailing how to test a file upload API endpoint using Postman.
+Gemini Conversation while building this : https://gemini.google.com/share/4c7133bf0e73
 
 Install & open Postman
 
